@@ -72,5 +72,5 @@ class User_has_buy(MySQLModel):
     Buy = peewee.ForeignKeyField(rel_model=Buy, to_field=Buy.id)
 
 if __name__ =="__main__":
-    Mydb.connect()
-mydb.create_tables()
+    myDB.connect()
+    myDB.create_tables()
