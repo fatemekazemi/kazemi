@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79f6c8fd-d87a-4fc7-88b2-1e2b7a64d72e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home/index.html" afterPath="$PROJECT_DIR$/templates/home/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Tornado.iws" />
@@ -559,7 +558,11 @@
       <created>1453098313283</created>
       <updated>1453098313283</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="111">
+      <created>1453098362898</created>
+      <updated>1453098362898</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -625,7 +628,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="ftm" />
-    <option name="LAST_COMMIT_MESSAGE" value="ftm" />
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
