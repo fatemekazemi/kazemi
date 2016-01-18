@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79f6c8fd-d87a-4fc7-88b2-1e2b7a64d72e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home/index.html" afterPath="$PROJECT_DIR$/templates/home/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Tornado.iws" />
@@ -96,7 +97,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="202" column="18" selection-start="10510" selection-end="10510" vertical-scroll-proportion="0.34495413" vertical-offset="3246" max-vertical-offset="7208">
+            <state line="209" column="59" selection-start="10729" selection-end="10729" vertical-scroll-proportion="0.56330276" vertical-offset="3246" max-vertical-offset="7208">
               <folding />
             </state>
           </provider>
@@ -554,7 +555,11 @@
       <created>1453098272625</created>
       <updated>1453098272625</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ftm">
+      <created>1453098313283</created>
+      <updated>1453098313283</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -717,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="202" column="18" selection-start="10510" selection-end="10510" vertical-scroll-proportion="0.34495413" vertical-offset="3246" max-vertical-offset="7208">
+        <state line="209" column="59" selection-start="10729" selection-end="10729" vertical-scroll-proportion="0.56330276" vertical-offset="3246" max-vertical-offset="7208">
           <folding />
         </state>
       </provider>
